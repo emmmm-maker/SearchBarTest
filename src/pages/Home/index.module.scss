@@ -1,0 +1,26 @@
+.root {
+  position: relative;
+  :global {
+    .leftTitle {
+      color: #fff;
+      font-weight: 600;
+      font-size: 32px;
+    }
+    .nut-searchbar__search-input {
+      height: 56px;
+    }
+    .nut-swiper-item {
+      line-height: 300px;
+      img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+    .productCard {
+      padding: 0px 20px;
+      display: grid;
+      grid-template-columns: repeat(2, auto);
+      grid-column-gap: 20px;
+    }
+  }
+}

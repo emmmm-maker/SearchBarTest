@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "Supply-Chain-mini-client",
+  "description": "供应链小程序",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
